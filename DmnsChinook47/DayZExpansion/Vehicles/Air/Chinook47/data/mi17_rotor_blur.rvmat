@@ -1,0 +1,17 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: air\Data\materialy\mi17_rotor_blur.rvmat
+//Produced from mikero's Dos Tools Dll version 7.16
+//https://armaservices.maverick-applications.com/Products/MikerosDosTools/default
+//'now' is Sat Nov 30 15:01:05 2019 : 'file' last modified on Mon Dec 14 13:52:27 2009
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {1,1,1,1};
+diffuse[] = {1,1,1,1};
+forcedDiffuse[] = {0,0,0,1};
+emmisive[] = {0,0,0,1};
+specular[] = {0,0,0,1};
+specularPower = 1;
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";

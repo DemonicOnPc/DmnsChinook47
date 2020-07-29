@@ -1,0 +1,17 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: air\Data\mi8_shine.rvmat
+//Produced from mikero's Dos Tools Dll version 7.16
+//https://armaservices.maverick-applications.com/Products/MikerosDosTools/default
+//'now' is Sat Nov 30 15:01:06 2019 : 'file' last modified on Mon Dec 14 13:52:29 2009
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {1.0,1.0,1.0,1.0};
+diffuse[] = {1.0,1.0,1.0,1.0};
+forcedDiffuse[] = {0.0,0.0,0.0,1.0};
+emmisive[] = {1.0,0.2,0.2,1.0};
+specular[] = {0.0,0.0,0.0,1.0};
+specularPower = 1.0;
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";
